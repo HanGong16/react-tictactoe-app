@@ -1,0 +1,13 @@
+.square{
+    background-color:white;
+    border:1px solid #999;
+    float:left;
+    font-size:34px;
+    line-height: 1.2;
+    height: 100px;
+    margin-right: -1px;
+    margin-top: -1px;
+    text-align: center;
+    width: 100px;
+    cursor: pointer;
+}
